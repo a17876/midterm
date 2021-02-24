@@ -1,0 +1,18 @@
+div.upper{
+    background-color:#9A8C98;
+}
+div.main1{
+    background-color:#C9ADA7;
+}
+
+div.main2{
+    background-color:#C9ADA7;
+}
+h1{
+    text-align: center;
+}
+ul.nav li{
+    list-style-type: none;
+    display: inline;
+    margin:auto;
+}
