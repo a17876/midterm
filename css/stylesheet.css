@@ -73,6 +73,7 @@ ul.list{
 }
 .lunch img{
     float:left;
+    margin-right: 0.5em;
 }
 p.pizza2{
     clear:left;
