@@ -57,3 +57,20 @@ ul.list{
     margin:auto;
 }
 
+.breakfast{
+    position:relative;
+    height: 200px;
+}
+.breakfast img{
+    position;absolute;
+    bottom:0px;
+    right:0px;
+
+}
+.lunch img{
+    float:left;
+}
+p.pizza2{
+    clear:left;
+}
+
