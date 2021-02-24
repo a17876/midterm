@@ -16,7 +16,7 @@ div.breakfast img{
     float:right;
 }
 
-ul.nav li{
+nav li{
     list-style-type: none;
     display: inline;
 }
