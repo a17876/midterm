@@ -30,11 +30,13 @@ section{
 div.breakfast img{
     float:right;
 }
-
+nav{
+    text-align: center;
+}
 nav li{
     list-style-type: none;
     display: inline-block;
-    margin:auto;
+    padding: 1px 20px 5px;
 }
 nav a:link{
     color:rgb(53,8,80);
@@ -72,5 +74,8 @@ ul.list{
 }
 p.pizza2{
     clear:left;
+}
+#menu{
+    text-align: center;
 }
 
